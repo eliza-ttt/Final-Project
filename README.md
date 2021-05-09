@@ -6,3 +6,4 @@ Final Java project on IntelliJ IDEA
 ![alt](https://sun9-26.userapi.com/impg/7qCQDNqSpSIvrteuKC_Z_SVqpQTvS7_0wak0hA/G3f5QOt1A7Y.jpg?size=1280x720&quality=96&sign=c51f35a5c9c12e4d6156fe30f0b17c84&type=album)
 <br>
 <br>The photo of our Trello tasks
+![alt](https://sun9-60.userapi.com/impg/xzj2PUd-JJhIZmFPZkf_x2gO47F7_Mecnd0NTg/xDm4e14zga0.jpg?size=1280x720&quality=96&sign=78a480cbbd4932ad687acd85b2eb4504&type=album)
