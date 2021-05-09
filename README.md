@@ -1,3 +1,3 @@
-# Final-Project
+# Final JavaFx Project with SceneBuilder
 Final Java project on IntelliJ IDEA
-This quiz-game created by Aiperi Aidarova&Eliza Tursunbekova
+<br>This quiz-game created by Aiperi Aidarova&Eliza Tursunbekova
