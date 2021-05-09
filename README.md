@@ -12,3 +12,5 @@ Final Java project on IntelliJ IDEA
 <br>
 <br>And this is the FullScreen game
 ![alt](https://sun9-52.userapi.com/impg/nRPggUQyuYrP9a8QQhfblFiuGg-xQpem1mWRCQ/TC8Iva5fEH8.jpg?size=1280x720&quality=96&sign=28d185ce3f6d73b91fb3865a90b50de9&type=album)
+<br>
+<br>You write the capitals of the appearing countries.
