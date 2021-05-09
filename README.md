@@ -1,6 +1,6 @@
 # Final JavaFx Project with SceneBuilder
 Final Java project on IntelliJ IDEA
-<br>This quiz-game created by Aiperi Aidarova&Eliza Tursunbekova
+<br>This quiz-game was created by Aiperi Aidarova&Eliza Tursunbekova
 <br>
 <br>The photo of our Figma and the link: https://www.figma.com/file/oLPTawsnHV3RkRDoyqOQ5h/Untitled?node-id=0%3A3
 <br>
