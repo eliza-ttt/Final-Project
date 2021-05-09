@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.paint.LinearGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1090.0" prefWidth="1865.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="no.dremar17.assignment2.Controller">
+    <children>
+      <Rectangle fx:id="bg" arcHeight="5.0" arcWidth="5.0" height="1118.0" layoutX="-3.0" layoutY="-13.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="1955.0">
+         <fill>
+            <LinearGradient endX="1.0" endY="1.0">
+               <stops>
+                  <Stop color="#f84545" />
+                  <Stop color="#19227b" offset="1.0" />
+               </stops>
+            </LinearGradient>
+         </fill>
+      </Rectangle>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#595858" height="127.0" layoutX="622.0" layoutY="790.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="621.0" />
+        <TextField id="answer" fx:id="answer" layoutX="634.0" layoutY="815.0" prefHeight="39.0" prefWidth="370.0" promptText="answer" />
+        <Button fx:id="submitButton" defaultButton="true" layoutX="1025.0" layoutY="854.0" mnemonicParsing="false" onAction="#submitAction" prefHeight="39.0" prefWidth="203.0" text="Submit" />
+        <ImageView id="image" fx:id="imageView" fitHeight="558.0" fitWidth="573.0" layoutX="654.0" layoutY="155.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@images/australia.png" />
+            </image>
+        </ImageView>
+      <Text fx:id="congratulation" fill="WHITE" layoutX="137.0" layoutY="383.0" stroke="WHITE" strokeType="OUTSIDE" strokeWidth="0.0" wrappingWidth="320.3465576171875">
+         <font>
+            <Font name="Futura Medium" size="15.0" />
+         </font></Text>
+      <Circle fx:id="circle1" fill="DODGERBLUE" layoutX="634.0" layoutY="890.0" radius="7.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle2" fill="DODGERBLUE" layoutX="669.0" layoutY="890.0" radius="7.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle3" fill="DODGERBLUE" layoutX="707.0" layoutY="890.0" radius="7.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle4" fill="DODGERBLUE" layoutX="741.0" layoutY="890.0" radius="6.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle5" fill="DODGERBLUE" layoutX="777.0" layoutY="890.0" radius="7.0" stroke="BLACK" strokeType="INSIDE" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="32.0" layoutX="690.0" layoutY="77.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="486.0">
+         <fill>
+           <LinearGradient endX="1.0" endY="1.0">
+               <stops>
+                  <Stop color="#545454" />
+                  <Stop color="#727272" offset="1.0" />
+               </stops>
+            </LinearGradient>
+         </fill>
+      </Rectangle>
+      <Text fx:id="country" fill="WHITE" layoutX="961.0" layoutY="99.0" stroke="#1b84a4" strokeType="OUTSIDE" text="Australia?" wrappingWidth="203.11993408203125">
+         <font>
+            <Font name="Futura Condensed ExtraBold" size="18.0" />
+         </font></Text>
+        <Text fill="WHITE" layoutX="792.0" layoutY="100.0" stroke="#1981a1" strokeType="OUTSIDE" text="What's the capital of" wrappingWidth="203.1199493408203">
+         <font>
+            <Font name="Futura Condensed ExtraBold" size="18.0" />
+         </font></Text>
+    </children>
+</Pane>
+           
