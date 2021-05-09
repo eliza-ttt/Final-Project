@@ -14,3 +14,5 @@ Final Java project on IntelliJ IDEA
 ![alt](https://sun9-52.userapi.com/impg/nRPggUQyuYrP9a8QQhfblFiuGg-xQpem1mWRCQ/TC8Iva5fEH8.jpg?size=1280x720&quality=96&sign=28d185ce3f6d73b91fb3865a90b50de9&type=album)
 <br>
 <br>You write the capitals of the appearing countries.
+<br>When your answers are right the circles are GREEN or if answers are wrong the circles are RED.
+<br>Also you can click Enter to submit.
