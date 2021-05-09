@@ -9,3 +9,6 @@ Final Java project on IntelliJ IDEA
 <br>The photo of our Trello tasks and the link: https://trello.com/b/Yh4uWWdt/project-plan
 <br>
 ![alt](https://sun9-60.userapi.com/impg/xzj2PUd-JJhIZmFPZkf_x2gO47F7_Mecnd0NTg/xDm4e14zga0.jpg?size=1280x720&quality=96&sign=78a480cbbd4932ad687acd85b2eb4504&type=album)
+<br>
+<br>And this is the FullScreen game
+![alt](https://sun9-52.userapi.com/impg/nRPggUQyuYrP9a8QQhfblFiuGg-xQpem1mWRCQ/TC8Iva5fEH8.jpg?size=1280x720&quality=96&sign=28d185ce3f6d73b91fb3865a90b50de9&type=album)
